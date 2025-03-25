@@ -95,4 +95,4 @@ pytest tests/
  
 
 ## 📩 Contact
-Si tu as des questions, n'hésite pas à me contacter sur [LinkedIn](linkedin.com/in/jenny-tchiegue-907803257) ou à ouvrir une issue sur GitHub ! 🚀
+Si tu as des questions, n'hésite pas à me contacter sur [linkedin.com/in/jenny-tchiegue-907803257] ou à ouvrir une issue sur GitHub ! 🚀
