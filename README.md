@@ -25,16 +25,14 @@ Avant de commencer, assure-toi d'avoir les éléments suivants installés :
 
 ### 📥 Clonage du projet
 ```sh
-git clone https://github.com/ton-utilisateur/nom-du-projet.git
-cd nom-du-projet
+git clone https://github.com/JennyTchiegue/Prédiction_covid19.git
+cd   Prédiction_covid19.git
 ```
 
 ### 📦 Installation des dépendances
 Installe les bibliothèques requises avec :
 ```sh
-pip install -r requirements.txt
-```
-Fichier `requirements.txt` (à inclure dans ton projet) :
+pip install -r 
 ```
 numpy
 pandas
@@ -94,8 +92,7 @@ pytest tests/
 4. Pousser (`git push origin feature-nouvelle-fonctionnalité`)
 5. Ouvrir une Pull Request
 
-## 📄 Licence
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus d’informations.
+ 
 
 ## 📩 Contact
-Si tu as des questions, n'hésite pas à me contacter sur [LinkedIn](https://linkedin.com/in/ton-profil) ou à ouvrir une issue sur GitHub ! 🚀
+Si tu as des questions, n'hésite pas à me contacter sur [LinkedIn](linkedin.com/in/jenny-tchiegue-907803257) ou à ouvrir une issue sur GitHub ! 🚀
